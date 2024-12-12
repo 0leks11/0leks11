@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there 👋
+
+I am a Full-Stack Developer specializing in JavaScript/TypeScript, Django, Python, etc.
+
+- 📧 Email: [ak.kozyrev01@gmail.com](mailto:ak.kozyrev01@gmail.com)
+- 🌐 Website: [upwork/oleksii-kozyrev](https://www.upwork.com/freelancers/~0148d6dc0e1c6905ee)
+- Pronouns: he/him
 
 <!--
 **0leks11/0leks11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
