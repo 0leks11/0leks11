@@ -1,22 +1,26 @@
-Hi there 👋
+# 👋 Hi, I'm Oleksii Kozyrev  
 
-I am a Full-Stack Developer specializing in JavaScript/TypeScript, Django, Python, etc.
+🚀 **Frontend Developer | Engineer with a problem-solving mindset**  
 
-- 📧 Email: [ak.kozyrev01@gmail.com](mailto:ak.kozyrev01@gmail.com)
-- 🌐 Website: [upwork/oleksii-kozyrev](https://www.upwork.com/freelancers/~0148d6dc0e1c6905ee)
-- Pronouns: he/him
+I transitioned from **marine engineering** to **web development**, bringing an analytical and structured approach to building modern web applications.  
 
-<!--
-**0leks11/0leks11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 About Me  
+- 💻 **Currently:** Frontend Developer at **DELAB SCIENTIFIC** (remote, Malaysia)  
+- 🔄 **Previously:** Frontend Developer at **Evercity** (remote, Germany)  
+- 🎯 Passionate about clean code, UI performance optimization, and scalable frontend solutions.  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+- **Languages & Frameworks:** React, TypeScript, JavaScript  
+- **State Management:** Redux, Context API  
+- **Performance Optimization:** Webpack, Vite, lazy loading, memoization  
+- **Testing:** Jest, React Testing Library, Cypress  
+- **CI/CD & Deployment:** GitLab CI/CD, Docker, AWS/Azure  
+- **Real-time Data:** WebSockets, API integrations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Find Me Online  
+- ✉️ **Email:** [ak.kozyrev01@gmail.com](mailto:ak.kozyrev01@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/oleksii-kozyrev-106b37261](https://linkedin.com/in/oleksii-kozyrev-106b37261)  
+- 🌐 **Portfolio:** [https://oleksii-kozyrev-two.vercel.app/]  
+- 📝 **Resume:** [https://oleksii-kozyrev-two.vercel.app/resume.html]  
+
+🚀 **Let's connect and build something great!**
