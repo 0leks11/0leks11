@@ -19,7 +19,7 @@ I transitioned from **marine engineering** to **web development**, bringing an a
 
 ## 📫 Find Me Online  
 - ✉️ **Email:** [ak.kozyrev01@gmail.com](mailto:ak.kozyrev01@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/oleksii-kozyrev-106b37261](https://linkedin.com/in/oleksii-kozyrev-106b37261)  
+- 💼 **LinkedIn:** [linkedin.com/in/oleksii-kozyrev](https://linkedin.com/in/oleksii-kozyrev)  
 - 🌐 **Portfolio:** [https://oleksii-kozyrev-two.vercel.app/]  
 - 📝 **Resume:** [https://oleksii-kozyrev-two.vercel.app/resume.html]  
 
